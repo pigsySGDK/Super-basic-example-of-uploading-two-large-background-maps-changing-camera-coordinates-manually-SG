@@ -1,0 +1,3 @@
+out/res/resources.o: res/resources.res \
+C:/SGDKProjects/Shinobi\ Remakes/Uploaded\ to\ github/Super\ basic\ example\ of\ uploading\ two\ large\ background\ maps\ and\ a\ sprite,\ changing\ camera\ coordinates\ manually/res/shinobi\ 1-1\ 11\ colours.png \
+C:/SGDKProjects/Shinobi\ Remakes/Uploaded\ to\ github/Super\ basic\ example\ of\ uploading\ two\ large\ background\ maps\ and\ a\ sprite,\ changing\ camera\ coordinates\ manually/res/level\ 1\ cars\ 16\ colours.png
